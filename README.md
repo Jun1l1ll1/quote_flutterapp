@@ -1,16 +1,8 @@
-# quote
+# Quote'em
 
-A new Flutter project.
+A note app specifically designed for managing quotes people you know has said. Preferably sentances out of context!
 
-## Getting Started
+## Usage
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+The app will be released on Google Play under the name Quote'em. 
+It may come on iOS later. 
